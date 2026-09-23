@@ -142,7 +142,7 @@ header {
   max-width: 1150px;
   min-height: 90vh;
   margin: auto;
-  padding: 100px 20px;
+  padding: 30px 20px;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -261,7 +261,7 @@ header {
 .section {
   max-width: 1150px;
   margin: auto;
-  padding: 110px 20px;
+  padding: 30px 20px;
 }
 
 .section-heading {
@@ -549,7 +549,7 @@ header {
 
 .contact-section {
   text-align: center;
-  padding-bottom: 140px;
+  padding-bottom: 60px;
 }
 
 .contact-section .section-heading {
